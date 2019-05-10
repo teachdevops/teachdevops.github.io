@@ -7,8 +7,4 @@ layout: default
 
 
 
-- [Introducing the context](./context.html)
-- [Case Studies](./casestudies.html)
-- [Existing materials](./materials.html)
-- [Tools](./tools.html)
-- [About](./about.html)
+Let's do it!
