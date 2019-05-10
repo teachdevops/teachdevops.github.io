@@ -16,7 +16,7 @@
 title: Teach DevOps
 email: teachdevops@inria.fr
 description: >- # this means to ignore newlines until "baseurl:"
-  "Teach DevOps" is an international initiative to share teaching materials about DevOps. 
+  An open and international initiative to share teaching materials about DevOps. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: teachdevops
