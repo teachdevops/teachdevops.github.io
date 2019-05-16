@@ -32,5 +32,3 @@ layout: default
 ## Videos and Slides
 
 TODO
-
-[back](./)
