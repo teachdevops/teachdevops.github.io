@@ -1,10 +1,5 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
 ---
 
-
-
-Let's do it!
+_Teach DevOps_ brings together several institutions (Universities, research institutes, etc.) to develop and share various teaching materials related to DevOps, and list all the materials already available. 
