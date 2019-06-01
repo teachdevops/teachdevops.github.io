@@ -21,10 +21,6 @@ layout: default
 * [Site Reliability Engineering : How Google Runs Production Systems (Betsy Beyer, Chris Jones, Jennifer Petoff, and Niall Richard Murphy)](https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X)
 * [The DevOps Handbook (Gene Kim, Jez Humble, Patrick Debois, John Willis, and John Allspaw)](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002)
 
-## Tools
-
-* TODO
-
 ## Papers
 
 * [An empirical study on principles and practices of continuous delivery and deployment](https://peerj.com/preprints/1889.pdf)
