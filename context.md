@@ -2,8 +2,6 @@
 layout: default
 ---
 
-## Welcome to another page
+## Some facts about DevOps and Modern Software Development
 
 _yay_
-
-[back](./)
