@@ -20,6 +20,7 @@ layout: default
 * [DevOps: A Software Architect's Perspective, SEI](http://www.amazon.com/DevOps-Software-Architects-Perspective-Engineering/dp/0134049845)
 * [Site Reliability Engineering : How Google Runs Production Systems (Betsy Beyer, Chris Jones, Jennifer Petoff, and Niall Richard Murphy)](https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X)
 * [The DevOps Handbook (Gene Kim, Jez Humble, Patrick Debois, John Willis, and John Allspaw)](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002)
+* [Generating Software Tests - Breaking Software for Fun and Profit (Andreas Zeller, Rahul Gopinath, Marcel Böhme, Gordon Fraser, and Christian Holler)](https://www.fuzzingbook.org/)
 
 ## Papers
 
