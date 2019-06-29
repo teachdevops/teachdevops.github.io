@@ -27,6 +27,7 @@ layout: default
 
 * [An empirical study on principles and practices of continuous delivery and deployment](https://peerj.com/preprints/1889.pdf)
 * [Chaos Engineering](https://www.computer.org/cms/Computer.org/ComputingNow/issues/2016/07/mso2016030035.pdf), by Ali Basiri, Niosha Behnam, Ruud de Rooij, Lorin Hochstein, Luke Kosewski, Justin Reynolds, Casey Rosenthal. In IEEE Software vol. 33 no. 3, p. 35-41, 2016.
+* [Automating chaos experiments in production](https://arxiv.org/abs/1905.04648), by Ali Basiri, Lorin Hochstein, Nora Jones, Haley Tucker. In ICSE 2019 Software Engineering in Practice.
 * [State of Mutation Testing at Google](https://research.google.com/pubs/pub46584.html), by Goran Petrovic and Marko Ivankovic. In Proceedings of the 40th International Conference on Software Engineering 2017 (SEIP).
 
 ## Videos and Slides
